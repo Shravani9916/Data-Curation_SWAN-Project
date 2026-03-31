@@ -2,7 +2,7 @@
 
 IS547: Foundations of Data Curation | Spring 2026
 
-Student: Shravani Bhupal | sbhupal2@illinois.edu
+Curated By: Shravani Bhupal | sbhupal2@illinois.edu
 
 Dataset: Study of Women's Health Across the Nation (SWAN) Baseline Dataset, 1996–1997
 
