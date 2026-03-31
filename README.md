@@ -1,9 +1,15 @@
 # Data-Curation_SWAN-Project
+
 IS547: Foundations of Data Curation | Spring 2026
+
 Student: Shravani Bhupal | sbhupal2@illinois.edu
+
 Dataset: Study of Women's Health Across the Nation (SWAN) Baseline Dataset, 1996–1997
+
 ICPSR Study No.: 28762 | DOI: https://doi.org/10.3886/ICPSR28762.v5
+
 Curation Framework: CURATE(D) (Data Curation Network, 2022)
+
 
 ## Project Overview
 This repository contains curation artifacts produced as part of a semester-long data curation project applying the CURATE(D) framework to the SWAN Baseline Dataset. The central question is whether an independent researcher could encounter this dataset without access to the original study team and use it correctly and responsibly.
