@@ -33,3 +33,11 @@ No registration is required. Public-use files are freely downloadable.
 
 
 The actual data files are not included in this repository. Only curation documentation and analysis artifacts are stored here.
+
+## Key References
+
+Karlamangla, A. S., Lachman, M. E., Han, W., Huang, M., & Greendale, G. A. (2017). Evidence for cognitive aging in midlife women: Study of Women's Health Across the Nation. PLOS ONE, 12(1), Article e0169008. https://doi.org/10.1371/journal.pone.0169008
+
+Kagan, R., Shiozawa, A., Epstein, A. J., & Espinosa, R. (2021). Impact of sleep disturbances on employment and work productivity among midlife women in the US SWAN database. Menopause, 28(10), 1176–1180. https://doi.org/10.1097/GME.0000000000001834
+
+Sutton-Tyrrell, K., et al. (2019). SWAN Baseline Dataset, 1996–1997 [Data set]. ICPSR. https://doi.org/10.3886/ICPSR28762.v5
