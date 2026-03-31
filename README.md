@@ -20,3 +20,16 @@ The employment and occupational stress variables are among the least documented 
 The deposit's version history is not communicated clearly to new users, creating provenance uncertainty.
 
 The project also includes a use-in-context analysis reviewing the dataset alongside Karlamangla et al. (2017), a PLOS ONE article that uses SWAN longitudinal data to examine cognitive aging in midlife women. This was added following instructor feedback and has surfaced curation observations not reachable from the deposit alone.
+
+## Dataset Access
+The SWAN Baseline Dataset is publicly available through ICPSR:
+
+
+ICPSR Study Page: https://www.icpsr.umich.edu/web/NACDA/studies/28762
+
+DOI: https://doi.org/10.3886/ICPSR28762.v5
+
+No registration is required. Public-use files are freely downloadable.
+
+
+The actual data files are not included in this repository. Only curation documentation and analysis artifacts are stored here.
